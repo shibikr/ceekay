@@ -1,0 +1,2 @@
+module CeekayAppHelper
+end
